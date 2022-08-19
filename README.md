@@ -19,4 +19,4 @@ php app.php start
 - Go to http://localhost:9501 to make a test request.
 - Go to http://localhost:9502/metrics you can see some Prometheus data.
 
-Thanks to @huangdijia for the help with AOP + Nano.
+Thanks to [@huangdijia](https://github.com/huangdijia) for the help with AOP + Nano.
