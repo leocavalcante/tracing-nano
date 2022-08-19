@@ -1,0 +1,24 @@
+{
+    "name": "leocavalcante/tracing-nano",
+    "description": "Proof of concept on adding observability features (tracing and metrics) to a Nano microservice.",
+    "type": "project",
+    "require": {
+        "hyperf/nano": "dev-master",
+        "hyperf/tracer": "3.0.x-dev",
+        "hyperf/metric": "3.0.x-dev",
+        "hyperf/process": "3.0.x-dev",
+        "jonahgeorge/jaeger-client-php": "dev-master"
+    }
+    ,
+    "require-dev": {
+        "roave/security-advisories": "dev-latest"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "leocavalcante",
+            "email": "lc@leocavalcante.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
